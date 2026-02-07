@@ -1,1 +1,10 @@
-��^�j�W�v+-n�t"���
+node_modules
+dist
+uploads
+.git
+.env
+.env.local
+.idx
+Dockerfile
+.dockerignore
+npm-debug.log
